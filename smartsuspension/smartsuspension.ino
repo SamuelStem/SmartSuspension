@@ -1,4 +1,4 @@
-#include <Wire.h>
+#include <Wire.h>// Tracks Suspension Change
 #include <Adafruit_LIS3DH.h>
 #include <Servo.h>
 
